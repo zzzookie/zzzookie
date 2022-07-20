@@ -1,16 +1,27 @@
-### Hi there 👋
+**Hello there! ✋**<br>
+**I'm Middle Frontend Developer from Moscow, currently looking for a job.**<br>
+**Open to offers with relocation.**
 
-<!--
-**zzzookie/zzzookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stack:
+* JavaScript
+* React
+* Redux (Thunk, Saga)
+* CSS, SCSS
+* Node.js (Express)
+* Sequelize ORM, PostgreSQL
+* Jest
+* Figma
 
-Here are some ideas to get you started:
+### A bit experience with:
+* WebSocket
+* Yandex Maps API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### On the way:
+* [ ] TypeScript
+
+# Coo
+***💬 Feel free to contact me:***
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?color=0088cc&logo=telegram&logoColor=white)](https://t.me/zzzookie)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?color=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-shulgin/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?color=075e54&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79167978400)
+[![Email](https://img.shields.io/badge/-Email-red?color=ea4335&logo=gmail&logoColor=white)](mailto:iushulgin@gmail.com)
