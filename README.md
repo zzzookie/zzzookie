@@ -11,6 +11,7 @@ Also open to relocation offers.
 * Sequelize ORM, PostgreSQL
 * Jest
 * Figma
+* MUI, Bootstrap
 
 ## A bit experience with
 * WebSocket
