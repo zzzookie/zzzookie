@@ -7,7 +7,7 @@ Also open to relocation offers.
 * React
 * Redux (Thunk, Saga)
 * CSS, SCSS
-* Node.js (Express)
+* Node.js (Express), Handlebars
 * Sequelize ORM, PostgreSQL
 * Jest
 * Figma
