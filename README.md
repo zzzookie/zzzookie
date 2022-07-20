@@ -12,14 +12,14 @@ Also open to relocation offers.
 * Jest
 * Figma
 
-### A bit experience with:
+## A bit experience with:
 * WebSocket
 * Yandex Maps API
 
-### On the way:
+## On the way:
 * [ ] TypeScript
 
-# Contacts
+## Contacts
 Feel free to contact me:<br><br>
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?color=0088cc&logo=telegram&logoColor=white)](https://t.me/zzzookie)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?color=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-shulgin/)
