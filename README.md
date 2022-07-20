@@ -1,6 +1,6 @@
-**Hello there! ✋**<br>
+Hello there! ✋<br>
 **I'm Middle Frontend Developer from Moscow, currently looking for a job.**<br>
-**Open to offers with relocation.**
+Open to offers with relocation.
 
 ## My stack:
 * JavaScript
