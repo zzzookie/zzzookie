@@ -1,8 +1,8 @@
 Hello there! ✋<br>
-**I'm Middle Frontend Developer from Moscow, currently looking for a job.**<br>
-Open to offers with relocation.
+I'm Middle Frontend Developer from Moscow, currently ***looking for a job***.<br>
+Also open to relocation offers.
 
-## My stack:
+## My stack
 * JavaScript
 * React
 * Redux (Thunk, Saga)
@@ -19,8 +19,8 @@ Open to offers with relocation.
 ### On the way:
 * [ ] TypeScript
 
-# Coo
-***💬 Feel free to contact me:***
+# Contacts
+Feel free to contact me:<br><br>
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?color=0088cc&logo=telegram&logoColor=white)](https://t.me/zzzookie)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?color=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-shulgin/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?color=075e54&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=79167978400)
