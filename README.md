@@ -12,11 +12,11 @@ Also open to relocation offers.
 * Jest
 * Figma
 
-## A bit experience with:
+## A bit experience with
 * WebSocket
 * Yandex Maps API
 
-## On the way:
+## On the way
 * [ ] TypeScript
 
 ## Contacts
