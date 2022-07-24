@@ -1,7 +1,7 @@
 Hello there! ✋<br>
 I'm Middle Frontend Developer from Moscow, currently ***looking for a job***.<br>
-Really excited of making front-end in my projects squeaky clean, but can work in both front- and back-end areas.
-Also open to relocation offers.
+Really excited about making Front-end part of my projects squeaky clean, but can work in both Front- and Back-end areas.<br>
+Also open to relocation offers🌍
 
 ## My stack
 * JavaScript
