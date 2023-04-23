@@ -1,5 +1,5 @@
 Hello there! ✋<br>
-I'm Middle Frontend Developer from Moscow, currently ***looking for a job***.<br>
+I'm Frontend Developer from Moscow, currently ***looking for a job***.<br>
 Really excited about making Front-end part of my projects squeaky clean, but can work in both Front- and Back-end areas.<br>
 Also open to relocation offers🌍
 
