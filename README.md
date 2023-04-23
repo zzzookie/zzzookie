@@ -6,7 +6,7 @@ Also open to relocation offers🌍
 ## My stack
 * JavaScript
 * React
-* Redux (Thunk, Saga)
+* Redux
 * CSS, SCSS
 * Node.js (Express), Handlebars
 * Sequelize ORM, PostgreSQL
