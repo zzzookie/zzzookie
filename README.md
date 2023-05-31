@@ -1,15 +1,14 @@
 Hello there! ✋<br>
-I'm Frontend Developer from Moscow, currently ***looking for a job***.<br>
-Really excited about making Front-end part of my projects squeaky clean, but can work in both Front- and Back-end areas.<br>
-Also open to relocation offers🌍
+I'm Frontend Developer from Moscow currently living in Thailand and ***opened for a job offers***.<br>
+Really excited about making project's Front-end part squeaky clean, but know both Front- and Back-end. Also studied some UX-design.<br>
+Ready to relocate almost anywhere🌍
 
 ## My stack
+* React + Redux
 * JavaScript
-* React
-* Redux
 * CSS, SCSS
-* Node.js (Express), Handlebars
-* Sequelize ORM, PostgreSQL
+* Node.js + Express.js, Handlebars
+* Sequelize, PostgreSQL
 * Jest
 * Figma
 * MUI, Bootstrap
@@ -18,7 +17,7 @@ Also open to relocation offers🌍
 * WebSocket
 * Yandex Maps API
 
-## On the way
+## Coming soon
 * [ ] TypeScript
 
 ## Contacts
