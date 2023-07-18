@@ -4,21 +4,17 @@ Really excited about making project's Front-end part squeaky clean, but know bot
 Ready to relocate almost anywhere🌍
 
 ## My stack
-* React + Redux
-* JavaScript
-* CSS, SCSS
+* Next.js + React + Redux
 * Node.js + Express.js, Handlebars
-* Sequelize, PostgreSQL
-* Jest
+* Sequelize + PostgreSQL, Mongoose + MongoDB
+* Praywright, Jest
 * Figma
-* MUI, Bootstrap
+* Chackra UI, MUI, Bootstrap
+* JavaScript
 
 ## A bit experience with
 * WebSocket
-* Yandex Maps API
-
-## Coming soon
-* [ ] TypeScript
+* Webpack
 
 ## Contacts
 Feel free to contact me:<br><br>
