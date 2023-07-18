@@ -9,7 +9,7 @@ Ready to relocate almost anywhere🌍
 * Sequelize + PostgreSQL, Mongoose + MongoDB
 * Praywright, Jest
 * Figma
-* Chackra UI, MUI, Bootstrap
+* Chakra UI, MUI, Bootstrap
 * JavaScript
 
 ## A bit experience with
