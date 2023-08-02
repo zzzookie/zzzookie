@@ -11,7 +11,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 * Next.js + React + Redux
 * Node.js + Express.js, Handlebars
 * Sequelize + PostgreSQL
-* Praywright, Jest
+* Playwright, Jest
 * Figma
 * Chakra UI, MUI, Bootstrap
 * JavaScript
