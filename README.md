@@ -7,6 +7,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 ```🎨``` Also studied some UX-design (at least I'm definitely physically unable to produce visual shit)<br>
 
 ## My stack
+* TypeScript
 * Next.js + React + Redux
 * Node.js + Express.js, Handlebars
 * Sequelize + PostgreSQL
