@@ -23,6 +23,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 
 ### Next goals
 * ➡️ Vue.js
+* ➡️ Docker
 * ➡️ React Native
 
 ## Contacts
