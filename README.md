@@ -21,7 +21,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 * Webpack
 * Mongoose + MongoDB
 
-### On my way
+### Next goals
 ```➡️``` Vue.js
 
 ## Contacts
