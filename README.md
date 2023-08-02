@@ -1,10 +1,10 @@
 Hello there!<br>
-I'm Frontend Developer from Moscow currently living in Thailand and ***opened for a job offers***.<br><br>
-📈 Continually developing my skills is my #1 priority right now, and I'm looking for a team to make that possible with.<br>
-🌍 I'm location-flexible, ready to relocate almost anywhere :)<br>
-🤌 Really excited about making my part of the job squeaky clean.<br>
-🌈 Prefer Front-end, but can handle Node.js Back-end as well.<br>
-🎨 Also studied some UX-design (at least I'm physically unable to produce visual shit)<br>
+I'm Frontend Developer originally from Moscow, currently living in Thailand and ***opened for a job offers***.<br><br>
+```📈``` Continually developing my skills is my #1 priority right now, and I'm looking for a team to make that possible with.<br>
+```🌍``` I'm location-flexible, ready to relocate almost anywhere :)<br>
+```🤌``` Really excited about making my part of the job squeaky clean.<br>
+```🌈``` Prefer Front-end, but can handle Node.js Back-end as well.<br>
+```🎨``` Also studied some UX-design (at least I'm definitely physically unable to produce visual shit)<br>
 
 ## My stack
 * Next.js + React + Redux
