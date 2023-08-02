@@ -22,7 +22,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 * Mongoose + MongoDB
 
 ### On my way
-➡️ Vue.js
+```➡️``` Vue.js
 
 ## Contacts
 Feel free to contact me:<br><br>
