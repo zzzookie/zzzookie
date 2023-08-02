@@ -1,7 +1,8 @@
 Hello there! ✋<br>
 I'm Frontend Developer from Moscow currently living in Thailand and ***opened for a job offers***.<br>
-Really excited about making project's Front-end part squeaky clean, but know both Front- and Back-end. Also studied some UX-design.<br>
-Ready to relocate almost anywhere🌍
+🌟 Really excited about making my part of the job squeaky clean. Prefer Front-end, but can handle Back-end as well. Studied UX-design.<br>
+📈 Continually developing my skills is my #1 priority right now, and I'm looking for a team to make that possible with.<br>
+🌍 I'm location-flexible, ready to relocate almost anywhere :)
 
 ## My stack
 * Next.js + React + Redux
