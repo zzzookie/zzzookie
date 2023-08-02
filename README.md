@@ -22,9 +22,9 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 * Mongoose + MongoDB
 
 ### Next goals
-* ➡️ Vue.js
-* ➡️ Docker
-* ➡️ React Native
+*  ➡️ Vue.js
+*  ➡️ Docker
+*  ➡️ React Native
 
 ## Contacts
 Feel free to contact me:<br><br>
