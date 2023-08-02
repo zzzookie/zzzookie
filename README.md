@@ -9,15 +9,19 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 ## My stack
 * Next.js + React + Redux
 * Node.js + Express.js, Handlebars
-* Sequelize + PostgreSQL, Mongoose + MongoDB
+* Sequelize + PostgreSQL
 * Praywright, Jest
 * Figma
 * Chakra UI, MUI, Bootstrap
 * JavaScript
 
-## A bit experience with
+### A bit experience with
 * WebSocket
 * Webpack
+* Mongoose + MongoDB
+
+### On my way
+➡️ Vue.js
 
 ## Contacts
 Feel free to contact me:<br><br>
