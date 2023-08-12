@@ -4,7 +4,7 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 ```🌍``` I'm location-flexible. Ready to relocate almost anywhere :)<br>
 ```🤌``` Really excited about making my part of the job squeaky clean.<br>
 ```🌈``` Prefer Front-end, but can handle Node.js Back-end as well.<br>
-```🎨``` Also studied some UX-design (at least I'm definitely physically unable to produce visual shit)<br>
+```🎨``` Also studied some UX-design (at least I'm physically unable to produce a visual shit)<br>
 
 ## My stack
 * TypeScript
@@ -12,8 +12,8 @@ I'm Frontend Developer originally from Moscow, currently living in Thailand and 
 * Node.js + Express.js, Handlebars
 * Sequelize + PostgreSQL
 * Playwright, Jest
-* Figma
 * Chakra UI, MUI, Bootstrap
+* Figma
 * JavaScript
 
 ### A bit experience with
