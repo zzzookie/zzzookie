@@ -19,7 +19,6 @@ I'm Frontend Developer from Moscow, living in Thailand and ***open for a job off
 ### A bit experience with
 * WebSocket
 * Webpack
-* Mongoose + MongoDB
 
 ### Next goals
 *  ➡️ Vue.js
