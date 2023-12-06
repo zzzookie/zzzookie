@@ -17,6 +17,7 @@ I'm Frontend Developer from Moscow, living in Thailand and ***open for a job off
 * JavaScript
 
 ### A bit experience with
+* Go
 * WebSocket
 * Webpack
 
